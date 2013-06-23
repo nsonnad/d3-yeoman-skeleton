@@ -1,6 +1,6 @@
 define(['d3'], (d3) ->
 
-    applyData = (data) =>
+    applyData = (data) ->
         margin = { t : 20, r : 20, b : 20, l : 20 }
         # width below for responsive purposes
         h = window.innerHeight - margin.t - margin.b
