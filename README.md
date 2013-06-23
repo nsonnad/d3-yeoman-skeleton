@@ -11,7 +11,7 @@ A barebones D3 / Coffeescript / Sass setup built on [Yeoman](http://yeoman.io/),
 
 You will need Grunt and Bower. If you haven't got those, run:
 
-    npm install -g yo grunt-cli bower
+    npm install -g grunt-cli bower
 
 Clone this repo, then run:
 
